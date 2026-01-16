@@ -35,7 +35,7 @@ The system is built with **Python 3.x** and **LangGraph**.
 2.  **Install Dependencies**
     *(Note: Ensure you have Python 3.9+)*
     ```bash
-    pip install langchain langgraph langchain-mistralai pydantic pandas scikit-learn python-dotenv nest_asyncio
+    pip install langchain langgraph langchain-mistralai pydantic pandas scikit-learn python-dotenv nest_asyncio bs4 markdown
     ```
 
 3.  **Environment Setup**
